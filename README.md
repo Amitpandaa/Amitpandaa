@@ -28,7 +28,7 @@ App Developer | Coder | Tech Enthusiast
       </a>
     </td>
    <td align="center">
-  <a href="https://github.com/RAFIKSHA" target="_blank">
+  <a href="https://github.com/Amitpandaa" target="_blank">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRAFIKSHA&subtitle=RAFIKSHA&size=square" alt="RAFIKSHA">
   </a>
 </td>
