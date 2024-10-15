@@ -23,7 +23,7 @@ App Developer | Coder | Tech Enthusiast
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/amit-panda-26a028268/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5%2B9pLyqwRe2yJrHUcUANyw%3D%3D" target="_blank">
+      <a href="https://www.linkedin.com/in/amit-panda-26a028268/" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Famit-panda-179875209%2F&subtitle=@Amit+Panda&size=square" alt="AMIT PANDA">
       </a>
     </td>
